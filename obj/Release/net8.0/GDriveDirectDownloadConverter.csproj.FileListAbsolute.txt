@@ -1,0 +1,14 @@
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\bin\Release\net8.0\GDriveDirectDownloadConverter.exe
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\bin\Release\net8.0\GDriveDirectDownloadConverter.deps.json
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\bin\Release\net8.0\GDriveDirectDownloadConverter.runtimeconfig.json
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\bin\Release\net8.0\GDriveDirectDownloadConverter.dll
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\bin\Release\net8.0\GDriveDirectDownloadConverter.pdb
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.AssemblyInfoInputs.cache
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.AssemblyInfo.cs
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.dll
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\refint\GDriveDirectDownloadConverter.dll
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.pdb
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\GDriveDirectDownloadConverter.genruntimeconfig.cache
+C:\Users\Yuuya\source\repos\GDriveDirectDownloadConverter\obj\Release\net8.0\ref\GDriveDirectDownloadConverter.dll
